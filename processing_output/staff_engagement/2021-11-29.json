@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "0d6a050f-4a9b-4b95-a631-b787729afbca",
+        "user": "U02MYK7UMLP",
+        "ts": "2021-11-29 19:07:48",
+        "team": "T1EK05RK3",
+        "channel": "staff_engagement",
+        "hashed content": "f6064cdb 40cab4e7 8cabafd3 d582886c cd960a4c 7430718e d18c4cb2 290f7c28 325fba43 827f9b7f 28f745f0 9ae4cb6d 5e990de6 d18c4cb2 2a1ce408 cf2aeef7 590eb557 28f745f0 SENT_END",
+        "LIWC dict": {
+            "Funct": 12,
+            "Article": 7,
+            "Pronoun": 5,
+            "Ppron": 5,
+            "I": 5
+        }
+    },
+    {
+        "client_msg_id": "7ac04365-b263-44c3-8fc6-b60efd02cd38",
+        "user": "U02MZ6P1EF9",
+        "ts": "2021-11-29 19:16:46",
+        "team": "T1EK05RK3",
+        "channel": "staff_engagement",
+        "hashed content": "f6064cdb @U02MYK7UMLP 5e990de6 9ae4cb6d 6f221c2c d5bf920a 2a1ce408 7bf5ef50 d88d44d2 827f9b7f e5b91bc9 slightly_smiling_face SENT_END",
+        "LIWC dict": {
+            "Funct": 13,
+            "Pronoun": 8,
+            "Ppron": 8,
+            "I": 8,
+            "Article": 5
+        }
+    },
+    {
+        "client_msg_id": "abf2d3df-1052-4289-bb08-f6c1d7f67475",
+        "user": "U02P3J1GWTA",
+        "ts": "2021-11-29 19:23:44",
+        "team": "T1EK05RK3",
+        "channel": "staff_engagement",
+        "hashed content": "@channel f6064cdb 40cab4e7 6f221c2c d18c4cb2 5a7ef62d d88d44d2 827f9b7f e5b91bc9 slightly_smiling_face",
+        "LIWC dict": {
+            "Funct": 13,
+            "Pronoun": 7,
+            "Ppron": 7,
+            "I": 7,
+            "Article": 6
+        }
+    },
+    {
+        "client_msg_id": "b952414b-5587-4d2c-bba1-42da68cb03a4",
+        "user": "U02NDTHBSBV",
+        "ts": "2021-11-29 19:33:42",
+        "team": "T1EK05RK3",
+        "channel": "staff_engagement",
+        "hashed content": "@here c6964f4e d18c4cb2 31103b39 e8f10427 9ae4cb6d 5a7ef62d d88d44d2 827f9b7f e5b91bc9 c6964f4e b965d441 SENT_END",
+        "LIWC dict": {
+            "Funct": 9,
+            "Article": 7,
+            "Pronoun": 2,
+            "Ppron": 2,
+            "I": 2
+        }
+    }
+]

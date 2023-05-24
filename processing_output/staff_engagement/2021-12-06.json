@@ -1,0 +1,192 @@
+[
+    {
+        "client_msg_id": "87598369-fb05-488e-a132-b78e5989c9c0",
+        "user": "U02C10LGQLE",
+        "ts": "2021-12-07 01:27:52",
+        "team": "T1EK05RK3",
+        "channel": "staff_engagement",
+        "hashed content": "f6064cdb 40cab4e7 8cabafd3 7377fa9f 31103b39 1b7e28c7 cf1bd881 a03beae8 e3d704f3 db764905 SENT_END 472c9ae6 b5b40089 e434c81d d18c4cb2 4a86acc1 c8c666fd SENT_END",
+        "LIWC dict": {
+            "Funct": 8,
+            "Pronoun": 5,
+            "Ppron": 5,
+            "I": 5,
+            "Article": 3
+        }
+    },
+    {
+        "client_msg_id": "9e63b340-d67f-4f45-9bd0-478b6e7a6dde",
+        "user": "U02C10LGQLE",
+        "ts": "2021-12-07 01:29:10",
+        "team": "T1EK05RK3",
+        "replies": [
+            {
+                "user": "WCKQ01DFH",
+                "ts": "2021-12-07 04:45:12"
+            }
+        ],
+        "channel": "staff_engagement",
+        "hashed content": "f6064cdb SENT_END @WCKQ01DFH 18078c8b 5199feb0 dd8587fd SENT_END slightly_smiling_face 827f9b7f 44e786a4 (LINK) 8297144c 31103b39 a50810ec SENT_END grin 39ca129b 8e8faf53 ba016c6d @WCKQ01DFH 96a34b27 8a8d4dbb 04947518 affb23b0 e6649f33 e6f12255 2598d670 e434c81d NUM SENT_END 7afaca50 NUM 03b943c9 d7da43c2 21600634 NUM dd6c3f57 b8dd36cb LINK",
+        "LIWC dict": {
+            "Funct": 16,
+            "Pronoun": 10,
+            "Ppron": 10,
+            "I": 10,
+            "Article": 6
+        }
+    },
+    {
+        "user": "U02C10LGQLE",
+        "team": "T1EK05RK3",
+        "ts": "2021-12-07 01:31:27",
+        "client_msg_id": "d669ca57-4c72-468c-ab4d-2218b74054a8",
+        "replies": [
+            {
+                "user": "WCKQ01DFH",
+                "ts": "2021-12-07 04:45:56"
+            }
+        ],
+        "channel": "staff_engagement",
+        "hashed content": "@channel 434907ea LINK 8ac32156 209dc0c3 33e28153 slightly_smiling_face grin 96a34b27 8a8d4dbb 04947518 affb23b0 e6649f33 e6f12255 2598d670 e434c81d NUM SENT_END 7afaca50 NUM 03b943c9 d7da43c2 21600634 NUM dd6c3f57 b8dd36cb LINK",
+        "LIWC dict": {
+            "Funct": 14,
+            "Pronoun": 9,
+            "Ppron": 9,
+            "I": 9,
+            "Article": 5
+        }
+    },
+    {
+        "user": "U02C10LGQLE",
+        "team": "T1EK05RK3",
+        "ts": "2021-12-07 02:01:52",
+        "client_msg_id": "be73266b-68e0-42b2-8e23-4618fb421c1d",
+        "replies": [
+            {
+                "user": "U02C10LGQLE",
+                "ts": "2021-12-07 17:38:58"
+            }
+        ],
+        "channel": "staff_engagement"
+    },
+    {
+        "client_msg_id": "e0b05fa0-2a77-44bf-98d5-d11d724746aa",
+        "user": "U02C10LGQLE",
+        "ts": "2021-12-07 02:45:28",
+        "team": "T1EK05RK3",
+        "channel": "staff_engagement",
+        "hashed content": "e8f10427 2598d670 a03beae8 5b796f5f d88d44d2 fd642679 6ecda603 e6f12255 49905141 SENT_END @channel d5bf920a 83c6805b d88d44d2 20b62420 SENT_END 2240f075 511a0b6e ecdc57c2 b840e080 83c6805b SENT_END 2ce8a462 fb46fac4 SENT_END 72b4ff96 9ae4cb6d 83c6805b SENT_END db764905 c807481a 4dd3d480 SENT_END 72b4ff96 325fba43 fb948f9d 511a0b6e ecdc57c2 83c6805b 87bae0f2 74ce2e1a 18edc578 1cf62bf5 83c6805b 72b4ff96 SENT_END 7aef4ce5 74ce2e1a",
+        "LIWC dict": {
+            "Funct": 22,
+            "Article": 13,
+            "Pronoun": 9,
+            "Ppron": 9,
+            "I": 9
+        }
+    },
+    {
+        "client_msg_id": "5244dbda-285e-4eb3-8d9d-ce68062bc259",
+        "user": "U02C10LGQLE",
+        "ts": "2021-12-07 02:46:55",
+        "team": "T1EK05RK3",
+        "channel": "staff_engagement",
+        "hashed content": "e8f10427 2598d670 a03beae8 5b796f5f d88d44d2 fd642679 6ecda603 e6f12255 49905141 SENT_END 39ca129b 8e8faf53 ba016c6d b840e080 dd8587fd b5a9cad2 8c4799c6 @channel @WCKQ01DFH d5bf920a 83c6805b d88d44d2 20b62420 SENT_END 2240f075 511a0b6e 2fd9cfe8 b840e080 83c6805b SENT_END 2ce8a462 fb46fac4 SENT_END 72b4ff96 9ae4cb6d 83c6805b SENT_END db764905 c807481a 4dd3d480 SENT_END 72b4ff96 325fba43 fb948f9d 511a0b6e 2fd9cfe8 83c6805b 87bae0f2 74ce2e1a 18edc578 1cf62bf5 83c6805b 72b4ff96 SENT_END 7aef4ce5 74ce2e1a",
+        "LIWC dict": {
+            "Funct": 33,
+            "Pronoun": 17,
+            "Ppron": 17,
+            "I": 17,
+            "Article": 16
+        }
+    },
+    {
+        "client_msg_id": "ae678c29-d413-4dcb-a102-265834817afd",
+        "user": "U02C10LGQLE",
+        "ts": "2021-12-07 02:58:37",
+        "team": "T1EK05RK3",
+        "channel": "staff_engagement",
+        "hashed content": "e8f10427 2598d670 a03beae8 5b796f5f d88d44d2 fd642679 6ecda603 e6f12255 49905141 SENT_END @channel 20b62420 SENT_END 2240f075 511a0b6e 2fd9cfe8 b840e080 83c6805b SENT_END 2ce8a462 fb46fac4 SENT_END 72b4ff96 9ae4cb6d 83c6805b SENT_END db764905 c807481a 4dd3d480 SENT_END 72b4ff96 325fba43 fb948f9d 511a0b6e 2fd9cfe8 83c6805b 87bae0f2 74ce2e1a 18edc578 1cf62bf5 83c6805b 72b4ff96 SENT_END 7aef4ce5 74ce2e1a",
+        "LIWC dict": {
+            "Funct": 28,
+            "Pronoun": 14,
+            "Ppron": 14,
+            "I": 14,
+            "Article": 14
+        }
+    },
+    {
+        "client_msg_id": "c38aecbc-e9f4-43ff-928d-3a8849bce95c",
+        "user": "U02C10LGQLE",
+        "ts": "2021-12-07 03:10:50",
+        "team": "T1EK05RK3",
+        "channel": "staff_engagement",
+        "hashed content": "e61c24b2 5199feb0 a03beae8 1684528a e48d6453 d88d44d2 86b52adb 030533cc e32965ef f4fe292e 2283335d 2283335d NUM 3134ee84 NUM 32cfe6c1 NUM SENT_END e35e2a06 e32965ef b9884d9c f4fe292e NUM f4fe292e NUM 172befbe NUM 172befbe NUM 77399d5f e32965ef 77399d5f 172befbe NUM 172befbe NUM f4fe292e NUM f4fe292e NUM",
+        "LIWC dict": {
+            "Funct": 18,
+            "Article": 13,
+            "Pronoun": 5,
+            "Ppron": 5,
+            "I": 5
+        }
+    },
+    {
+        "client_msg_id": "5754ba2c-fc75-4efc-b54e-a0ddc2576bc1",
+        "user": "U02C10LGQLE",
+        "ts": "2021-12-07 03:39:54",
+        "team": "T1EK05RK3",
+        "replies": [
+            {
+                "user": "WCKQ01DFH",
+                "ts": "2021-12-07 04:48:45"
+            }
+        ],
+        "channel": "staff_engagement",
+        "hashed content": "87b5b8fe 8e18e464 5199feb0 7c56c76a ec1fb6e3 823257a1 d88d44d2 48fa2467 ad002ef4 1ec6611f 4d48edaf 1a4c2428 SENT_END 39ca129b 26ba9c02 cf1e8c5f b840e080 2a1ce408 42323d68 22d05f35 da54f429 ed675002 e6f12255 ad002ef4 2598d670 1e027d37 f962541c 5398f665 d9031ec0 1e42cae3 SENT_END 32cfe6c1 2283335d 25ea1682 b9884d9c 46b3765c a206a0d2 6de2ed70 SENT_END 8eb6d874 46fa5a23 a0295d4b",
+        "LIWC dict": {
+            "Funct": 21,
+            "Article": 12,
+            "Pronoun": 9,
+            "Ppron": 9,
+            "I": 9
+        }
+    },
+    {
+        "client_msg_id": "3d56f3f8-8852-43df-8e59-49a9232a8db3",
+        "user": "WCKQ01DFH",
+        "ts": "2021-12-07 04:45:12",
+        "team": "T1EK05RK3",
+        "parent_user_id": "U02C10LGQLE",
+        "channel": "staff_engagement",
+        "hashed content": "8298153d @U02C10LGQLE 2598d670 LINK 2a1ce408 44e786a4 SENT_END 4adcc02a LINK SENT_END 845791a0 NUM SENT_END",
+        "LIWC dict": {
+            "Funct": 5,
+            "Article": 3,
+            "Pronoun": 2,
+            "Ppron": 2,
+            "I": 2
+        }
+    },
+    {
+        "client_msg_id": "c42ae953-311b-4ae8-9c90-ba22a1f462c4",
+        "user": "WCKQ01DFH",
+        "ts": "2021-12-07 04:45:56",
+        "team": "T1EK05RK3",
+        "parent_user_id": "U02C10LGQLE",
+        "channel": "staff_engagement",
+        "hashed content": "c807481a LINK bde3a423 LINK",
+        "LIWC dict": {}
+    },
+    {
+        "client_msg_id": "1d4e977d-76ca-4117-b2d8-642529c616ba",
+        "user": "WCKQ01DFH",
+        "ts": "2021-12-07 04:48:45",
+        "team": "T1EK05RK3",
+        "parent_user_id": "U02C10LGQLE",
+        "channel": "staff_engagement",
+        "hashed content": "1e027d37 e61c24b2 2448e0ab 5398f665 876eeb28 1e42cae3 SENT_END 39ca129b 26ba9c02 bde3a423 a0018ced c807481a SENT_END a0018ced c807481a SENT_END 9e546423 c807481a 9e546423 ce4106ec b5a9cad2 c807481a c26b789f 0ed7dbe0 df2184f4 aebb3b68 437f5780 d7a70272 437f5780 1ec6611f b5a9cad2 SENT_END",
+        "LIWC dict": {
+            "Funct": 16,
+            "Article": 16
+        }
+    }
+]

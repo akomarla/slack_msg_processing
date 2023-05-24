@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "c54e968f-9644-4c31-90be-1fa56c5d667b",
+        "user": "U02MZ6P1EF9",
+        "ts": "2021-11-23 19:42:51",
+        "team": "T1EK05RK3",
+        "channel": "staff_engagement",
+        "hashed content": "f6064cdb",
+        "LIWC dict": {
+            "Pronoun": 1,
+            "Ppron": 1,
+            "Funct": 1,
+            "I": 1
+        }
+    },
+    {
+        "client_msg_id": "9d14d1ec-d0ac-43d1-9e5b-c71b03e3ab60",
+        "user": "U3148NX6Z",
+        "ts": "2021-11-23 19:43:19",
+        "team": "T1EK05RK3",
+        "channel": "staff_engagement",
+        "hashed content": "f6064cdb @U02MZ6P1EF9",
+        "LIWC dict": {
+            "Pronoun": 1,
+            "Ppron": 1,
+            "Funct": 1,
+            "I": 1
+        }
+    },
+    {
+        "client_msg_id": "07f2a20c-d141-4460-bd6c-a03d562cc41f",
+        "user": "U02C10LGQLE",
+        "ts": "2021-11-23 20:27:53",
+        "team": "T1EK05RK3",
+        "channel": "staff_engagement",
+        "hashed content": "ebde9cc9 SENT_END 8298153d d5bf920a 6b194d4b 2a1ce408 511a0b6e 6a7357d5",
+        "LIWC dict": {
+            "Funct": 5,
+            "Article": 4,
+            "Pronoun": 1,
+            "Ppron": 1,
+            "I": 1
+        }
+    },
+    {
+        "client_msg_id": "7ecb9595-cef2-4ffb-80e6-7e3b57d5fd75",
+        "user": "U3148NX6Z",
+        "ts": "2021-11-23 22:25:04",
+        "team": "T1EK05RK3",
+        "channel": "staff_engagement",
+        "hashed content": "ebb917d6 5e990de6 @U02C10LGQLE blush SENT_END",
+        "LIWC dict": {
+            "Pronoun": 1,
+            "Ppron": 1,
+            "Funct": 1,
+            "I": 1
+        }
+    }
+]

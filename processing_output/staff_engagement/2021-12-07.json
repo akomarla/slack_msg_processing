@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "c1850546-fd40-4a22-8e14-6275dc1d516f",
+        "user": "U02C10LGQLE",
+        "ts": "2021-12-07 17:38:58",
+        "team": "T1EK05RK3",
+        "parent_user_id": "U02C10LGQLE",
+        "channel": "staff_engagement",
+        "hashed content": "8cabafd3 1acdcbf0 d18c4cb2 cd44bd9b ad002ef4 32cfe6c1 33e28153 2598d670 80787f0e SENT_END 472c9ae6 cf1e8c5f 2a1ce408 33e28153 d88d44d2 ef0a501b f4cf5f3e 996ef23e SENT_END",
+        "LIWC dict": {
+            "Funct": 13,
+            "Pronoun": 7,
+            "Ppron": 7,
+            "I": 7,
+            "Article": 6
+        }
+    },
+    {
+        "user": "U02C10LGQLE",
+        "team": "T1EK05RK3",
+        "ts": "2021-12-07 17:40:09",
+        "client_msg_id": "5aa29eb3-a4fa-4cf1-89e4-7afdfed159e4",
+        "replies": [
+            {
+                "user": "U02C10LGQLE",
+                "ts": "2021-12-07 17:41:18"
+            }
+        ],
+        "channel": "staff_engagement",
+        "hashed content": "2ddc70ee 2598d670 cf0f372c NUM",
+        "LIWC dict": {
+            "Funct": 2,
+            "Article": 1,
+            "Pronoun": 1,
+            "Ppron": 1,
+            "I": 1
+        }
+    },
+    {
+        "user": "U02C10LGQLE",
+        "team": "T1EK05RK3",
+        "ts": "2021-12-07 17:40:39",
+        "client_msg_id": "f7d921f1-2689-4a4d-a2bc-f1528c781312",
+        "channel": "staff_engagement"
+    },
+    {
+        "client_msg_id": "7402262e-e37b-4da6-a95b-ec2fb5047f1e",
+        "user": "U02C10LGQLE",
+        "ts": "2021-12-07 17:41:18",
+        "team": "T1EK05RK3",
+        "parent_user_id": "U02C10LGQLE",
+        "channel": "staff_engagement",
+        "hashed content": "@WCKQ01DFH d170ac9a dd8587fd 5398f665 827f9b7f e15efb14 3c95a3be SENT_END",
+        "LIWC dict": {
+            "Funct": 4,
+            "Pronoun": 3,
+            "Ppron": 3,
+            "I": 3,
+            "Article": 1
+        }
+    },
+    {
+        "user": "U02C10LGQLE",
+        "team": "T1EK05RK3",
+        "ts": "2021-12-07 17:46:15",
+        "client_msg_id": "10cddbd7-c86c-483d-8104-bbaa19c9df2d",
+        "channel": "staff_engagement"
+    },
+    {
+        "client_msg_id": "af1df6a1-3c32-40bb-90cd-abd92c2d5795",
+        "user": "U02C10LGQLE",
+        "ts": "2021-12-07 18:05:04",
+        "team": "T1EK05RK3",
+        "channel": "staff_engagement",
+        "hashed content": "ebde9cc9 @channel d7a70272 9ae4cb6d 8cabafd3 5199feb0 84273c00 cf1bd881 2a1ce408 1fcb7161 8ddf9b9b d5bf920a 827f9b7f 511a0b6e SENT_END 472c9ae6 b5b40089 e434c81d d18c4cb2 4a86acc1 3003f7e5 57b8e534 SENT_END 1ec6611f 05bff93f d5bf920a 3003f7e5 81e992dc 8ac32156 8d88814a SENT_END",
+        "LIWC dict": {
+            "Funct": 26,
+            "Article": 14,
+            "Pronoun": 12,
+            "Ppron": 12,
+            "I": 12
+        }
+    }
+]
