@@ -1,2 +1,2 @@
 # Introduction
- Processing and hashing Slack communication to enable language modelling. Developed for the Computational Culture Lab (https://www.comp-culture.org/) at UC Berkeley as a part of a study on organizational behavior.
+ Processing and hashing Slack communication to enable language modelling. Developed for the Computational Culture Lab (https://www.comp-culture.org/) at UC Berkeley as a part of a study on organizational behavior. Lara Yang, a PhD student in Organizational Behavior and Computational Social Science at Stanford University (https://www.gsb.stanford.edu/programs/phd/academic-experience/students/lara-yang) contributed to this code. 
